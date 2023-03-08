@@ -1,5 +1,5 @@
 # PowerBI AW Sales Project
-The data is imported into the PowerBi, and Normalization is done in Power Query Editor. A Relationship model is created between the table with the help of the Star and snowflake schemas. Various calculated columns and DAX measures are created, which are helpful to visualize the data. Dasbord are created using various visuals (Bar charts, stacked Bar charts, Matrix, slicers, Map, cards etc.) and filtered using visual level, page level, Report level, and drill-through filters
+The data is imported into the PowerBi, and Normalization is done in Power Query Editor. A Relationship model is created between the tables with the help of the Star and snowflake schemas. Various calculated columns and DAX measures are created, which are helpful to visualize the data. Dasbord are created using various visuals (Bar charts, stacked Bar charts, Matrix, slicers, Map, cards etc.) and filtered using visual level, page level, Report level, and drill-through filters
 
 ## DATA VISUALIZATION
 
